@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rupam, passionate about games and Virtual Reality.
 - 👀 I’m interested in coding and programming for the Gaming World
-- 🌱 I’m currently learning Full Stack Game development at Outscal
+- :floppy_disk: My Linkedin: https://www.linkedin.com/in/devrupam 
 - 💞️ I’m looking to collaborate on game development projects.
 - 📫 Please feel free to send a message at rdebmail@gmail.com
 
